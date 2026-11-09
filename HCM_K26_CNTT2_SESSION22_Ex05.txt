@@ -1,0 +1,19 @@
+SESSION22
+Bài 5 : Tối ưu quy trình hỗ trợ kỹ thuật nội bộ
+
+Tên lớp: HCM K26 CNTT2
+Môn học: Nhập môn công nghệ thông tin
+Họ và tên: LƯƠNG THANH THƯ
+
+
+1. Thiết kế kiến trúc: Bug Report Template (4 mảnh ghép, bắt buộc điền trước khi hỏi)
+Context (bối cảnh): hệ điều hành, phiên bản công cụ, đang làm gì thì lỗi.
+Expected (mong đợi): kết quả đúng phải thấy (ví dụ: web chạy ở localhost:3000).
+Actual (thực tế): điều đang xảy ra (ví dụ: container không chạy, báo cổng 3000 bị chiếm).
+Log (nhật ký lỗi): dán nguyên văn thông báo lỗi, kèm những gì đã thử.
+
+2. Sản phẩm hoàn chỉnh: Quy trình 3 bước tra cứu bắt buộc (tự xử lý khoảng 80% lỗi)
+Bước 1 - Googling: dán nguyên văn dòng lỗi vào Google, dùng " " và site:stackoverflow.com để lọc.
+Bước 2 - Community Search: tìm trên StackOverflow và GitHub Issues, ưu tiên câu trả lời nhiều, mới, đúng hệ điều hành.
+Bước 3 - AI Translation: nhờ AI giải thích lỗi và gợi ý cách sửa, kiểm chứng lệnh trước khi chạy.
+Sau 3 bước vẫn chưa xong thì điền Bug Report Template rồi mới nhờ nhóm; xử lý được thì ghi cách sửa vào tài liệu chung.
